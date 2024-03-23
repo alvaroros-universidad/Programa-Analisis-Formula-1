@@ -1,6 +1,8 @@
 # Proyecto Formula 1
 
-![F1 Logo](https://www.effettidesigns.com/wp-content/uploads/2017/12/F1-logo-red-on-black-e1511528736760.jpg =250x)
+<p align="center">
+  <img src="https://www.effettidesigns.com/wp-content/uploads/2017/12/F1-logo-red-on-black-e1511528736760.jpg" alt="F1 Logo" width="600"/>
+</p>
 
 ## Miembros del Equipo
 
