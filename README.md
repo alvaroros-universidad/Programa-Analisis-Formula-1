@@ -52,7 +52,7 @@ Utilizaremos Ora.pm como nuestra herramienta de gestión Agile. Puedes unirte a 
 
 ### Diagrama de Clases
 
-Coming soon...
+![Diagrama de Clases](https://raw.githubusercontent.com/alvaroros-universidad/Programa-Analisis-Formula-1/main/Ingenieria%20de%20Software/Diagrama%20de%20Clases.png)
 
 ## RoadMap
 
