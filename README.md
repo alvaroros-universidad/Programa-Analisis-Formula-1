@@ -34,6 +34,10 @@ La base de datos utilizada en este proyecto es pública y está disponible en Ka
 3. **Análisis de conducción del conductor y equipos:**
    Identifica a los mejores conductores y equipos en términos de victorias, podios, etc., a lo largo de los años/décadas. Saldrá un podio según equipos o conductores dará datos de sus resultados al pinchar en su posición. Y calculará datos como madurez de la carrera del piloto según su edad y sus resultados, calculo de competitividad para el rango de tiempo, y puede que una nota al conductor o equipo en ese rango.
 
+## Programa Finalizado
+
+
+
 ## Herramienta Metodología Agile
 
 [![Ora.pm Logo](https://www.ora.pm/favicon.ico)](https://app.ora.pm/invite/0c0e97b7b1b9455d82cb059ccc7f0fd8)
@@ -71,4 +75,4 @@ Utilizaremos Ora.pm como nuestra herramienta de gestión Agile. Puedes unirte a 
 - [x] Diagrama de Clases
 - [x] Mantener actualizado Ora.pm
 - [x] Mejorar repositorio de GitHub con un ReadMe
-- [ ] Actividades pendientes para la segunda entrega
+- [x] Actividades pendientes para la segunda entrega
