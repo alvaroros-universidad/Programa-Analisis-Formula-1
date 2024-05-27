@@ -39,6 +39,20 @@ La base de datos utilizada en este proyecto es pública y está disponible en Ka
 
 El main del programa presenta un menú principal que permite al usuario elegir entre varias opciones para analizar y predecir datos de carreras de Fórmula 1. El usuario puede predecir resultados de pilotos y equipos, evaluar la importancia de la posición de salida, y realizar análisis y generar informes sobre los cinco mejores pilotos y equipos. Además, el programa ofrece recomendaciones de estrategias de paradas en boxes, neumáticos, combustible y configuración del coche. Finalmente, el usuario puede elegir salir del programa.
 
+## Menú Programa
+
+
+1. Driver Results Prediction
+2. Team Results Prediction
+3. Predict Importance of Start Position
+4. Top 5 Drivers Analysis
+5. Generate Report of Top 5 Drivers
+6. Top 5 Teams Analysis
+7. Generate Report of Top 5 Teams
+8. Pit Stop and Tire Strategy Recommendation
+9. Fuel Strategy Recommendation
+10. Car Setup Recommendation
+
 ## Herramienta Metodología Agile
 
 [![Ora.pm Logo](https://www.ora.pm/favicon.ico)](https://app.ora.pm/invite/0c0e97b7b1b9455d82cb059ccc7f0fd8)
