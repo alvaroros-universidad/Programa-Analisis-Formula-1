@@ -37,6 +37,7 @@ La base de datos utilizada en este proyecto es pública y está disponible en Ka
 ## Programa Finalizado
 
 
+El main del programa presenta un menú principal que permite al usuario elegir entre varias opciones para analizar y predecir datos de carreras de Fórmula 1. El usuario puede predecir resultados de pilotos y equipos, evaluar la importancia de la posición de salida, y realizar análisis y generar informes sobre los cinco mejores pilotos y equipos. Además, el programa ofrece recomendaciones de estrategias de paradas en boxes, neumáticos, combustible y configuración del coche. Finalmente, el usuario puede elegir salir del programa.
 
 ## Herramienta Metodología Agile
 
